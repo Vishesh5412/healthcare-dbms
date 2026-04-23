@@ -42,3 +42,5 @@ def log_audit_event(username, role, action, patient_id=None):
 # Configured MongoDB Atlas connection handling for cloud access
 
 # Added fail-safes for missing Streamlit secrets
+
+# Ensure audit logging timestamps are strictly UTC
