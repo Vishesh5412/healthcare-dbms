@@ -38,3 +38,5 @@ def log_audit_event(username, role, action, patient_id=None):
         "action": action,
         "patient_id": patient_id
     })
+
+# Configured MongoDB Atlas connection handling for cloud access
