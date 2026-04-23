@@ -216,3 +216,5 @@ if __name__ == "__main__":
     main()
 
 # Validated JSON Schema rules for the patients collection
+
+# Seed generation accounts for 4 distinct user roles
